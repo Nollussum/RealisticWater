@@ -1,0 +1,4 @@
+name: RealisticWater
+version: '1.0-SNAPSHOT'
+main: Nollussum.realisticWater.RealisticWater
+api-version: '1.18'

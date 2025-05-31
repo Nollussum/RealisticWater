@@ -1,8 +1,5 @@
 package Nollussum.realisticWater;
 
-import org.bukkit.Bukkit;
-import org.bukkit.GameRule;
-import org.bukkit.World;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
